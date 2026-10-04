@@ -192,7 +192,7 @@ h2 {
     line-height: 1.9;
 }
 /*------------- github buttons----------*/
-.github-btn-rederect {
+.github-button-rederect {
   display: inline-block;
   padding: 5px 10px;
   border: 1px solid #444;
@@ -204,7 +204,7 @@ h2 {
   text-decoration: none;
 }
 
-.github-btn-rederect:hover {
+.github-button-rederect:hover {
   background: #222;
   border-color: #555;
 }
