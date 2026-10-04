@@ -218,13 +218,15 @@ h2 {
 .noai {
   display: flex;
   justify-content: center; 
-  align-items: center;     
-  height: 100vh;           
+  /*align-items: center;     
+  height: 100vh;   */
+  margin-top: 50px;        
 }
 /*buttons just cuz*/
 .buttons {  
 display: flex;
   justify-content: center; 
-  align-items: center;     
-  height: 1vh;           
+  /*align-items: center;     
+  height: 1vh;*/   
+  margin-top: 50px;        
 }
