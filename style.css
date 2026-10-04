@@ -215,5 +215,6 @@ h2 {
   align-items: baseline;
 }
 /*no ai possision*/
-.noai
-text-align: center;
+.noai {
+  text-align: center;  
+}
