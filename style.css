@@ -214,5 +214,6 @@ h2 {
   justify-content: space-between;
   align-items: baseline;
 }
-
-
+/*no ai possision*/
+.noai
+text-align: center;
